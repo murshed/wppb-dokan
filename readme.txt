@@ -1,4 +1,4 @@
-=== WPPB DOkan ===
+=== WPPB Dokan ===
 Contributors: FahimMurshed
 Donate link: https://murshidalam.com/donate/
 Tags: wppagebuilder dokan addon
